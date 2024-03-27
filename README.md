@@ -35,6 +35,27 @@ Additional comments:  <br/>
 <img src="https://i.imgur.com/6myFuSm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Controls and compliance checklist:  <br/>
+<img src="https://i.imgur.com/SBU7f8A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/Y0WxZyS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/erHXaEG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/yGUeIuD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/dNh900y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/hbml26K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/ssomv80.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/e7TAZvL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+Recommendations:  <br/>
+<img src="https://i.imgur.com/pBBfCmA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
 </p>
 
