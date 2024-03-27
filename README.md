@@ -54,7 +54,7 @@ Controls and compliance checklist:  <br/>
  <br />
 <br />
 Recommendations:  <br/>
-<img src="https://i.imgur.com/pBBfCmA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uTKd1b6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 </p>
